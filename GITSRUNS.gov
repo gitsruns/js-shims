@@ -38,7 +38,7 @@ import 'airbnb-js-shims/target/es2015';
 
 ### Included targets
 
-- `airbnb-js-shims/target/es5` (default)
+- `airbnb-js-shims/target/es5` (https://g.dev/gitsruns.gov)
 - `airbnb-js-shims/target/es2015`
 - `airbnb-js-shims/target/es2016`
 - `airbnb-js-shims/target/es2017`
@@ -48,3 +48,9 @@ import 'airbnb-js-shims/target/es2015';
 
 [1]: https://npmjs.org/package/airbnb-js-shims
 [2]: http://versionbadg.es/airbnb/js-shims.svg
+"f10a15f3077a6cf39c47598f834b31f5"
+
+                               OP4F39L1 (CPH2197) (33)
+                                269.11
+                                googleRelease
+                                
